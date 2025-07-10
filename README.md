@@ -117,14 +117,6 @@ All of this was **visually presented** in one executive dashboard.
 
 ---
 
-## 📸 Power BI Dashboard Preview
-
-![Power BI Dashboard – Olist Superstore](images/olist_dashboard.jpg)
-
-This dashboard was built for speed and clarity. All filters, graphs, and cards were designed to **answer real questions instantly.**
-
----
-
 ## 🏁 What I Achieved
 
 ✔ Transformed raw CSV data into **3 fully-functional BI dashboards**  
@@ -159,16 +151,10 @@ This is how I work — and I'm ready to do this in a professional team.
 
 ---
 
-## 📁 Files in This Repository
+## 📂 Available Files
 
-| File Name | Description |
-|-----------|-------------|
-| [olist_powerbi.pbix](./olist_powerbi.pbix) | Power BI dashboard with KPIs, geo-maps, DAX metrics, and slicers |
-| [olist_tableau.twbx](./olist_tableau.twbx) | Tableau workbook highlighting delivery trends, reviews, and product performance |
-| [olist_excel_dashboard.xlsx](./olist_excel_dashboard.xlsx) | Excel dashboard using pivot tables and slicers for category-level insights |
-| [SQL_queries.sql](./SQL_queries.sql) | SQL scripts used for data cleaning, joins, calculated columns |
-| [olist_dashboard.jpg](./olist_dashboard.jpg) | Static image of the Power BI dashboard used in this project |
-| [README.md](./README.md) | Complete project documentation, problem statement, and methodology |
+All dashboards (Power BI, Tableau, Excel), cleaned datasets, and SQL scripts used in this project are uploaded in this repository.  
+You can download or explore them directly from the file list above.
 
 ---
 
